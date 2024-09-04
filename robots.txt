@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://obcadracl.github.io/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/app/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/assets/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/css/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/includes/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/item/sitemap.html.gz
+Sitemap: https://obcadracl.github.io/src/sitemap.html.gz
